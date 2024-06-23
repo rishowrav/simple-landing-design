@@ -1,1 +1,5 @@
-git remove -v => which repository am i active in?
+1. git remove -v => which repository am i active in?
+2. git checkout branch_name => ek branch thke onno branch ee move kora
+3. git checkout -b branch_name => create new branch and switch new branch in one command
+4. git branch -d branch_name => delete branch 
+
